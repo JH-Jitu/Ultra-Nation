@@ -1,0 +1,19 @@
+.country{
+    display: flex;
+
+
+}
+.details{
+    width: 400px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 15px;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+.flag img{
+    width: 150px;
+    margin: 20px;
+    align-content: center;
+    
+}
